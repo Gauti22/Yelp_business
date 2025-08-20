@@ -21,7 +21,6 @@ It leverages **SQL, Tableau, and data preprocessing** to solve analytical proble
 ---
 
 ## 📂 Repository Structure
-## 📂 Repository Structure
 
 The repository is organized to keep **SQL scripts, documentation, and analysis artifacts** clean and accessible.  
 
